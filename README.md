@@ -2,7 +2,9 @@
 
 ![](https://www.asayers.com/london-tokyo_small.png)
 
-[High res](https://www.asayers.com/london-tokyo.png)
+[High-res version](https://www.asayers.com/london-tokyo.png) (82MiB)
+
+[Satellite version](https://www.asayers.com/london-tokyo_satellite.png) (72MiB)
 
 This is an equal-area map of Eurasia, where the direct route between London and Tokyo appears as a straight line.
 It's an oblique sinusoidal projection centered on the geodesic arc which joins those two cities.
@@ -17,4 +19,4 @@ Distortion occurs in the corners of the map.
 
 Regions where the distortion is large (Tissot ratio > 2) are masked off in white.
 This means that anything you can see on this map is guaranteed to have a relatively sane level of distortion (within 1:2 of its actual shape).
-Click [here](https://www.asayers.com/london-tokyo_tissot.png) to see the Tissot markers.
+Click [here](https://www.asayers.com/london-tokyo_tissot.png) to see the Tissot markers (20MiB).
